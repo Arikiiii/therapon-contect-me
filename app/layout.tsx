@@ -22,9 +22,8 @@ const notoSansThai = Noto_Sans_Thai({
 })
 
 export const metadata: Metadata = {
-  title: 'Contact Me · Across the Galaxy',
-  description: 'Reach me anywhere in the universe — Instagram, Discord, LINE, Gmail, and Facebook.',
-  generator: 'v0.app',
+  title: 'Thirapon Thaochoo · Contact Hub',
+  description: 'Professional contact information and social channels for communication and collaboration.',
   icons: {
     icon: [
       {
