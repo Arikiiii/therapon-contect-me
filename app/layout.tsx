@@ -22,7 +22,7 @@ const notoSansThai = Noto_Sans_Thai({
 })
 
 export const metadata: Metadata = {
-  title: 'Thirapon Thaochoo · Contact Hub',
+  title: 'Therapon Thaochoo · Contact Hub',
   description: 'Professional contact information and social channels for communication and collaboration.',
   icons: {
     icon: [
